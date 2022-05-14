@@ -1,1 +1,1 @@
-# frequency-domain-fitering-opencv
+# Frequency Domain Filtering with OpenCV
